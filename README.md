@@ -1,4 +1,4 @@
-No problem! Apologies for the oversight. Here's the updated version with your correct username "Rohith-pamidimarri" in the GitHub repository URL:
+
 
 # Logistic Regression Project: Predicting Ad Clicks
 
